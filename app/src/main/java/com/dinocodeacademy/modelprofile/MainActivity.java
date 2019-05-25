@@ -6,6 +6,7 @@ import android.widget.GridView;
 
 public class MainActivity extends AppCompatActivity {
 
+  // Here I made something new
 
     GridView imageDisplay;
     private String [] TEXT = {
